@@ -52,5 +52,6 @@ Software Engineer, Think and Learn Pvt Ltd (BYJU’S)
 💬 Let’s Connect!
 
 If you’d like to collaborate or discuss exciting opportunities, feel free to reach out!
-
-📊 GitHub Stats (Optional Section)
+rknkn@umsystem.edu
+ravitejakam@gmail.com
++1 737-703-9503
