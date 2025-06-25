@@ -71,6 +71,8 @@ Responsibilities:
 	•	Automated deployments using Jenkins and Git-based CI/CD pipelines, launching services on AWS EC2, ECS, and EKS with minimal downtime.
 	•	Built Docker images for microservices and frontend applications to simplify deployment and improve portability.
 	•	Managed containerized applications with Kubernetes, utilizing auto-scaling, load balancing, and rolling updates for high availability.
+
+ 
 Full Stack Developer November 2022 – June 2023
 Amdocs| Hyderabad, India
 	•	Developed scalable enterprise applications as a Full Stack Developer, building backend microservices with Java (Spring Boot) and responsive frontends with ReactJS and Next.js.
@@ -84,6 +86,8 @@ Amdocs| Hyderabad, India
 	•	Automated builds and deployments with Jenkins, Maven, and Git, alongside comprehensive unit testing with JUnit (backend) and Jest (frontend).
 	•	Containerized services with Docker and deployed them on Kubernetes clusters via AWS EC2/S3, enabling continuous delivery with real-time monitoring through CloudWatch.
 	•	Collaborated with cross-functional teams in Agile sprints, participated in code reviews, and contributed to architectural decisions and technical documentation.
+
+ 
 Software Engineer June 2021 – November 2022
 BYJU’S| Bengaluru, India
 	•	Contributed as a Front-End Developer for Toppr (acquired by BYJU’S), building high-performance, scalable features using ReactJS, Redux, Thunk, and Context API.
