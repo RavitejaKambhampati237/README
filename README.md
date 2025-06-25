@@ -11,20 +11,17 @@ Full Stack Developer | Front-End Developer | Java Developer
 	•	LinkedIn: Ravi Teja Kambhampati | https://www.linkedin.com/in/ravi-teja-kambhampati-2a77ba209/
 
 🚀 Technical Skills
-
-➢ Languages: Python, Java (Java 11+), JavaScript (ES6+), TypeScript, Go, C, C++ (Basics), Shell Scripting,
-➢ Frontend: ReactJS, Redux, NextJS, AngularJS, VueJS, Bootstrap, TailwindCSS, jQuery, AJAX, Jest,
-Enzyme,Html5,CSS
-➢ Backend: Spring Boot, NodeJS, Flask, Django, Hibernate, REST APIs, Microservices, Servlets, JSP, JDBC,
-JavaBeans, RESTEasy, Express.js
-➢ Databases: PostgreSQL, SQL, MySQL, Snowflake, PL/SQL, MongoDB, Firebase
-➢ Cloud Services: AWS (EC2, S3, RDS, ECS, EKS, CloudWatch), Azure
-➢ Containers & Orchestration: Docker, Kubernetes, JBoss, OpenShift, RedHat
-➢ CI/CD & Tools: Jenkins, Git, GitHub, Maven, JUnit, React Testing Library, Grafana
-➢ Developer Tools: VSCode, Eclipse, IntelliJ, Linux/Unix, Jira, PowerShell
-➢ Messaging & Streaming: Apache Kafka, RabbitMQ
-➢ Application Servers: Apache Tomcat, Apache Kafka, Splunk
-➢ Other: ELK Stack (Elasticsearch, Logstash, Kibana), JWT, Webpack, Babel, WebSocket
+	•	Languages: Python, Java (Java 11+), JavaScript (ES6+), TypeScript, Go, C, C++ (Basics), Shell Scripting
+	•	Frontend: ReactJS, Redux, NextJS, AngularJS, VueJS, Bootstrap, TailwindCSS, jQuery, AJAX, Jest, Enzyme, HTML5, CSS
+	•	Backend: Spring Boot, NodeJS, Flask, Django, Hibernate, REST APIs, Microservices, Servlets, JSP, JDBC, JavaBeans, RESTEasy, Express.js
+	•	Databases: PostgreSQL, SQL, MySQL, Snowflake, PL/SQL, MongoDB, Firebase
+	•	Cloud Services: AWS (EC2, S3, RDS, ECS, EKS, CloudWatch), Azure
+	•	Containers & Orchestration: Docker, Kubernetes, JBoss, OpenShift, RedHat
+	•	CI/CD & DevOps Tools: Jenkins, Git, GitHub, Maven, JUnit, React Testing Library, Grafana
+	•	Developer Tools: VSCode, Eclipse, IntelliJ IDEA, Linux/Unix, Jira, PowerShell
+	•	Messaging & Streaming: Apache Kafka, RabbitMQ
+	•	Application Servers: Apache Tomcat, Apache Kafka, Splunk
+	•	Other Technologies: ELK Stack (Elasticsearch, Logstash, Kibana), JWT, Webpack, Babel, WebSocket
 
 📂 Notable Projects
 
@@ -47,79 +44,48 @@ JavaBeans, RESTEasy, Express.js
 **Client: Wells Fargo, San Francisco, CA Jan 2024 – present
 Role: Full Stack Java Developer**
 **Responsibilities:**
-● Designed and developed RESTful APIs and microservices using Java 11, Spring Boot, Hibernate, and other related
-technologies.
-● Implemented scalable and secure backend microservices using Java 11 with features like HTTP Client API, Stream
-enhancements, and optional methods to enhance code efficiency and maintainability.
-● Implemented robust exception handling, validation, and logging mechanisms using Spring MVC and Spring AOP.
-● Built user interface for the application using React and integrated them with backend services via REST APIs,
-ensuring a smooth user experience across devices.
-● Implemented State Management using Redux, Context API, and React Query to handle application states and
-optimize performance.
-● Built reusable and modular components with JavaScript’s ES6+ features such as arrow functions, de-structuring,
-template literals, and modules to improve code maintainability and readability.
-● Configured and optimized PostgreSQL database performance, implementing indexing strategies and query
-optimization techniques.
-● Implemented AWS Solutions using EC2, S3, RDS, Elastic Load Balancer, Auto Scaling groups, optimized volumes,
-and EC2 instances and created monitors, alarms, and notifications for EC2 hosts using CloudWatch.
-● Implemented Elasticsearch, Logstash, and Kibana (ELK) to import meaningful data to a visible dashboard.
-● Developed a Kafka Stream module by java to read/write data from Kafka topic. Implemented Kafka producer and
-consumer applications on Kafka cluster setup with help of Zookeeper.
-● Integrated Splunk logging to monitor application performance and track key business metrics and configure Splunk
-for centralized logging with microservices deployed in AWS.
-● Enhanced API Security by implementing middleware with Node.js and Express.js for token-based authentication
-(JWT) with CSRF tokens and input sanitization.
-● Conducted frontend testing using tools like Jest and React Testing Library to validate UI behaviour and user
-interactions.
-● Utilized Jenkins, and Git to take Advantage of CI/CD pipelines to launch services on AWS EC2, ECS, and EKS.
-● Built Docker images for microservices and frontend applications, reducing deployment complexity and enhancing
-portability.
-● Deployed and managed containers using Kubernetes with features like auto-scaling, load balancing, and rolling
-updates.
+	•	Designed and developed RESTful APIs and microservices using Java 11, Spring Boot, Hibernate, and related technologies.
+	•	Implemented scalable, secure backend services using Java 11 features like HTTP Client API, Stream enhancements, and optional methods to boost code efficiency and maintainability.
+	•	Developed robust exception handling, validation, and logging using Spring MVC and Spring AOP to improve system reliability.
+	•	Built responsive, cross-device UIs with React, integrated seamlessly with backend services via REST APIs for an enhanced user experience.
+	•	Managed application state efficiently using Redux, Context API, and React Query to optimize frontend performance.
+	•	Developed reusable, modular components using JavaScript ES6+ features like arrow functions, de-structuring, and template literals to improve code readability and maintainability.
+	•	Configured and optimized PostgreSQL databases by implementing indexing and query tuning strategies to improve performance.
+	•	Delivered AWS solutions including EC2, S3, RDS, Elastic Load Balancer, Auto Scaling, and CloudWatch for scalable infrastructure and proactive system monitoring.
+	•	Integrated ELK Stack (Elasticsearch, Logstash, Kibana) for real-time data visualization and system observability.
+	•	Built and deployed Kafka Stream modules with Java for reliable real-time data processing, alongside Kafka producer/consumer applications on a Zookeeper-managed cluster.
+	•	Integrated Splunk for centralized logging and performance monitoring of microservices running in AWS environments.
+	•	Strengthened API security with Node.js and Express middleware implementing JWT authentication, CSRF protection, and input sanitization.
+	•	Conducted comprehensive frontend testing with Jest and React Testing Library to validate UI behavior and ensure reliability.
+	•	Automated deployments using Jenkins and Git-based CI/CD pipelines, launching services on AWS EC2, ECS, and EKS with minimal downtime.
+	•	Built Docker images for microservices and frontend applications to simplify deployment and improve portability.
+	•	Managed containerized applications with Kubernetes, utilizing auto-scaling, load balancing, and rolling updates for high availability.
 **Full Stack Developer November 2022 – June 2023
 Amdocs| Hyderabad, India**
-• Worked as a Full-Stack Developer, building scalable enterprise applications using Java (Spring Boot) for backend
-microservices and ReactJS for frontend development.
-• Developed and maintained RESTful APIs in Spring Boot with layered architecture, request validation, logging, and
-centralized exception handling.
-• Integrated microservices using Feign Clients, REST templates, and asynchronous communication via Kafka.
-• Implemented JWT-based authentication and role-based access control using Spring Security.
-• Managed relational data with Hibernate and optimized queries for improved backend performance.
-• Built responsive and interactive UIs using ReactJS and Next.js, with reusable components, hooks, and Redux for state
-management.
-• Enhanced SEO and application performance through Next.js server-side rendering (SSR) and lazy loading.
-• Ensured cross-browser compatibility and mobile responsiveness using TailwindCSS, following WCAG accessibility
-standards.
-• Automated builds and deployments using Jenkins, Maven, and Git; conducted unit testing with JUnit (backend) and
-Jest (frontend).
-• Containerized services using Docker and deployed them on Kubernetes clusters via AWS EC2/S3, enabling
-continuous delivery and monitoring via CloudWatch.
-• Collaborated with cross-functional teams in Agile sprints, participated in code reviews, and contributed to
-documentation and architectural decisions.
+	•	Developed scalable enterprise applications as a Full Stack Developer, building backend microservices with Java (Spring Boot) and responsive frontends with ReactJS and Next.js.
+	•	Designed and maintained RESTful APIs in Spring Boot with layered architecture, centralized exception handling, request validation, and logging for improved code quality.
+	•	Integrated microservices using Feign Clients, REST templates, and asynchronous communication via Kafka to enhance system scalability and reliability.
+	•	Strengthened security with JWT-based authentication and role-based access control implemented via Spring Security.
+	•	Optimized backend data operations by managing relational data with Hibernate and enhancing query performance.
+	•	Delivered responsive, high-performance UIs using React, Next.js, Redux, and hooks, improving user experience and frontend maintainability.
+	•	Boosted SEO and application load speeds through Next.js server-side rendering (SSR) and lazy loading techniques.
+	•	Ensured mobile responsiveness and accessibility compliance (WCAG) using TailwindCSS and cross-browser testing.
+	•	Automated builds and deployments with Jenkins, Maven, and Git, alongside comprehensive unit testing with JUnit (backend) and Jest (frontend).
+	•	Containerized services with Docker and deployed them on Kubernetes clusters via AWS EC2/S3, enabling continuous delivery with real-time monitoring through CloudWatch.
+	•	Collaborated with cross-functional teams in Agile sprints, participated in code reviews, and contributed to architectural decisions and technical documentation.
 **Software Engineer June 2021 – November 2022
 BYJU’S| Bengaluru, India**
-• Contributed as a Front-End Developer for Toppr (acquired by BYJU’S), building and enhancing dynamic, high-
-performance features using ReactJS, Redux, and modern state management techniques like Thunk and ContextAPI.
-• Led front-end modernization efforts by migrating to React 18, Webpack 5, and Babel, resulting in a 30%
-improvement in page load time and improved development scalability.
-• Built modular, reusable UI components aligned with atomic design principles, improving consistency and reducing
-code duplication.
-• Worked closely with UI/UX designers to transform Figma mockups into pixel-perfect, responsive interfaces using
-Tailwind CSS, Bootstrap, and CSS-in-JS methodologies.
-• Integrated RESTful APIs and handled asynchronous data fetching using Axios and Redux middleware, ensuring
-reliable data flow and user state management.
-• Implemented form validation, dynamic rendering, and conditional logic to handle complex user flows and improve
-usability.
-• Performed integration and unit testing using Jest, Enzyme, and React Testing Library, increasing code reliability and
-reducing bugs in production.
-• Maintained and enhanced CI/CD pipelines using Jenkins and Git for automated testing, code quality checks, and
-seamless deployments.
-• Applied lazy loading, code-splitting, and image optimization to improve performance across mobile and desktop
-platforms.
-• Collaborated with backend engineers to troubleshoot API-related issues and improve response handling on the client
-side.
-• Worked with MongoDB and Firebase in side projects for handling real-time updates, user authentication, and
-dashboard analytics.
+	•	Contributed as a Front-End Developer for Toppr (acquired by BYJU’S), building high-performance, scalable features using ReactJS, Redux, Thunk, and Context API.
+	•	Led front-end modernization by migrating to React 18, Webpack 5, and Babel, achieving a 30% reduction in page load times and enhancing development scalability.
+	•	Developed modular, reusable UI components following atomic design principles to improve consistency and reduce code duplication.
+	•	Transformed Figma designs into pixel-perfect, responsive interfaces using Tailwind CSS, Bootstrap, and CSS-in-JS, ensuring cross-device compatibility.
+	•	Integrated RESTful APIs and implemented robust state management with Axios, Redux middleware, and asynchronous data handling.
+	•	Enhanced complex user flows through dynamic rendering, form validation, and conditional logic to improve usability and user experience.
+	•	Strengthened frontend reliability through integration and unit testing with Jest, Enzyme, and React Testing Library, reducing production issues.
+	•	Maintained and optimized CI/CD pipelines with Jenkins and Git, enabling automated testing, code quality checks, and seamless deployments.
+	•	Improved application performance with lazy loading, code-splitting, and image optimization across desktop and mobile platforms.
+	•	Collaborated with backend teams to troubleshoot API integration issues and optimize client-side response handling.
+	•	Built side projects utilizing MongoDB and Firebase to enable real-time updates, secure user authentication, and interactive dashboards.
 
  
 
