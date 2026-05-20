@@ -1,14 +1,12 @@
 # README
-Hi there 👋, I’m Ravi Teja Kambhampati
+Hi there 👋, I’m Teja Kambhampati
 
 Full Stack Developer | Front-End Developer | Java Developer
 
-🌟 Master’s student in Computer Science at the University of Missouri - Kansas City. Passionate about leveraging data, algorithms, and technology to create impactful solutions.
 
 📫 How to reach me:
 
 	•	Email: ravitejakambhampati23@gail.com
-	•	LinkedIn: Ravi Teja Kambhampati | https://www.linkedin.com/in/ravi-teja-kambhampati-2a77ba209/
 
 🚀 Technical Skills
 		•	Languages:
